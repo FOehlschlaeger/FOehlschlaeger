@@ -16,12 +16,12 @@ Here are some ideas to get you started:
 -->
 
 Current or upcoming stuff I am working on (or I am planning to get my hands on):
-- Ethical Hacking
-- Bash Scripting
-- CI/CD with GitHub Actions
-- Learning Go / Golang with Tests
-- Game Development using C# and Unity
-- Containerization and Docker
+- [ ] Ethical Hacking
+- [ ] Bash Scripting
+- [ ] CI/CD with GitHub Actions
+- [ ] Learning Go / Golang with Tests
+- [ ] Game Development using C# and Unity
+- [ ] Containerization and Docker
 - Deep Diving into several AI topics:
   - Machine Learning
   - Deep Learning
