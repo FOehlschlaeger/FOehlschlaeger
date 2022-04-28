@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, my name is Friso 👋
 
 <!--
 **FOehlschlaeger/FOehlschlaeger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Current or upcoming stuff I am working on (or I am planning to get my hands on):
+- Ethical Hacking
+- Learning Kubernetes
+- Bash Scripting
+- CI/CD with GitHub Actions
+- Learning Go with Tests
+- Game Development using C# and Unity
+- Containerization and Docker
