@@ -19,6 +19,7 @@ Current or upcoming stuff I am working on (or I am planning to get my hands on):
 - [ ] Ethical Hacking
 - [ ] Bash Scripting
 - [ ] CI/CD with GitHub Actions
+- [ ] Improving my Python Skills
 - [ ] Learning Go / Golang with Tests
 - [ ] Game Development using C# and Unity
 - [ ] Containerization and Docker
