@@ -23,8 +23,4 @@ Current or upcoming stuff I am working on (or I am planning to get my hands on):
 - [ ] Learning Go / Golang with Tests
 - [ ] Game Development using C# and Unity
 - [ ] Containerization and Docker
-- Deep Diving into several AI topics:
-  - Machine Learning
-  - Deep Learning
-  - Artificial Neural Networks
-  - Computer Vision
+- [ ] Deep Diving into several AI topics such as Machine Learning, Deep Learning, Artificial Neural Networks, Computer Vision
