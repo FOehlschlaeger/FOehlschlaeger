@@ -15,14 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Topics I am currently working on and upcoming stuff I am planning to get my hands on:
-- [ ] Ethical Hacking
-- [ ] Bash Scripting
+Topics I am currently working on and upcoming stuff I am planning to acquire deeper knowledge and experience:
+- [ ] [Ethical Hacking with Python](https://github.com/FOehlschlaeger/udemy-ethical-hacking-python)
+- [ ] [Bash Scripting](https://github.com/FOehlschlaeger/Learn-Bash-Scripting)
 - [ ] CI/CD with GitHub Actions
 - [ ] Improving my Python Skills
-- [ ] Learning Go / Golang with Tests
+- [ ] [Learning Go / Golang with Tests](https://github.com/FOehlschlaeger/Learn-Go-with-Tests)
+- [ ] Learning C#
 - [ ] Game Development using C# and Unity
 - [ ] Containerization and Docker
 - [ ] Deep Diving into several AI topics such as Machine Learning, Deep Learning, Artificial Neural Networks, Computer Vision
 - [ ] Javascript / CSS / HTML
-- [ ] Kaggle Challenges
+- [ ] Participation in [Kaggle Competitions](https://www.kaggle.com/)
