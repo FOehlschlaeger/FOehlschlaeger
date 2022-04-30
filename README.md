@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Current or upcoming stuff I am working on (or I am planning to get my hands on):
+Topics I am currently working on and upcoming stuff I am planning to get my hands on:
 - [ ] Ethical Hacking
 - [ ] Bash Scripting
 - [ ] CI/CD with GitHub Actions
@@ -24,3 +24,5 @@ Current or upcoming stuff I am working on (or I am planning to get my hands on):
 - [ ] Game Development using C# and Unity
 - [ ] Containerization and Docker
 - [ ] Deep Diving into several AI topics such as Machine Learning, Deep Learning, Artificial Neural Networks, Computer Vision
+- [ ] Javascript / CSS / HTML
+- [ ] Kaggle Challenges
