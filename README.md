@@ -15,7 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Topics I am currently working on and upcoming stuff I am planning to acquire deeper knowledge and experience:
+- I am interested in Software Development and several AI-related topics such as Deep Learning, Machine Learning, Neural Networks aiming for deeper knowledge and hands-on experience
+- Besides, I pursue ideas around Game Development that sometimes pop-up in my head
+
+Current topics and upcoming stuff I am planning to tackle:
 - [ ] [Ethical Hacking with Python](https://github.com/FOehlschlaeger/udemy-ethical-hacking-python)
 - [ ] [Bash Scripting](https://github.com/FOehlschlaeger/Learn-Bash-Scripting)
 - [ ] CI/CD with GitHub Actions
