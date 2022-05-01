@@ -30,6 +30,6 @@ Here are some ideas to get you started:
 - [ ] Learning C#
 - [ ] Game Development using C# and Unity
 - [ ] Containerization and Docker
-- [ ] Deep Diving into several AI topics such as Machine Learning, Deep Learning, Artificial Neural Networks, Computer Vision
+- [ ] Deep Diving into several AI topics such as Machine Learning, Deep Learning, Neural Networks, Computer Vision, Natural Language Processing
 - [ ] Javascript / CSS / HTML
 - [ ] Participation in [Kaggle Competitions](https://www.kaggle.com/)
