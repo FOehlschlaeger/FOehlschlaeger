@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 #### Current topics and upcoming stuff I am planning to tackle:
 - [ ] [Ethical Hacking with Python](https://github.com/FOehlschlaeger/udemy-ethical-hacking-python)
 - [ ] [Bash Scripting](https://github.com/FOehlschlaeger/Learn-Bash-Scripting)
+- [ ] Kubernetes with VM Cluster
 - [ ] CI/CD with GitHub Actions
 - [ ] Improving Python
 - [ ] [Learning Go / Golang with Tests](https://github.com/FOehlschlaeger/Learn-Go-with-Tests)
