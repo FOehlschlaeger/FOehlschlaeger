@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 - [ ] [Ethical Hacking with Python](https://github.com/FOehlschlaeger/udemy-ethical-hacking-python)
 - [ ] [Bash Scripting](https://github.com/FOehlschlaeger/Learn-Bash-Scripting)
 - [ ] CI/CD with GitHub Actions
-- [ ] Improving my Python Skills
+- [ ] Improving Python
 - [ ] [Learning Go / Golang with Tests](https://github.com/FOehlschlaeger/Learn-Go-with-Tests)
 - [ ] Learning C#
 - [ ] Game Development using C# and Unity
