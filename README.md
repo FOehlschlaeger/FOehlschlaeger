@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - Besides, I pursue ideas around Game Development
 
 ---
-**Literature** to several topics you can find in my [repo _Literature-and-Stuff_](https://github.com/FOehlschlaeger/Literature-and-stuff)
+**Literature** to several topics you can find in [_Literature-and-Stuff_](https://github.com/FOehlschlaeger/Literature-and-Stuff)
 
 ---
 #### Current topics and upcoming stuff:
