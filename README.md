@@ -33,7 +33,7 @@ The project [Literature-and-Stuff](https://github.com/FOehlschlaeger/Literature-
 - [ ] Containerization and Docker
 - [ ] Deep Diving into several AI topics such as Machine Learning, Deep Learning, Neural Networks, Computer Vision, Natural Language Processing
 - [ ] Javascript / CSS / HTML
-- [ ] [Basics of Tableau](https://github.com/FOehlschlaeger/udemy-tableau-fundamentals-of-data-visualization)
+- [ ] [Basics of Tableau Data Visualization](https://github.com/FOehlschlaeger/udemy-tableau-fundamentals-of-data-visualization)
 - [ ] Participation in [Kaggle Competitions](https://www.kaggle.com/)
 
 ---
