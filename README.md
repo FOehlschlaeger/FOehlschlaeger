@@ -33,4 +33,5 @@ Here are some ideas to get you started:
 - [ ] Containerization and Docker
 - [ ] Deep Diving into several AI topics such as Machine Learning, Deep Learning, Neural Networks, Computer Vision, Natural Language Processing
 - [ ] Javascript / CSS / HTML
+- [ ] [Basics of Tableau](https://github.com/FOehlschlaeger/udemy-tableau-fundamentals-of-data-visualization)
 - [ ] Participation in [Kaggle Competitions](https://www.kaggle.com/)
