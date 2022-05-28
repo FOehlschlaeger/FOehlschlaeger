@@ -18,6 +18,9 @@ Here are some ideas to get you started:
 - Besides, I pursue ideas around Game Development
 
 ---
+[_Literature-and-Stuff_](https://github.com/FOehlschlaeger/Literature-and-Stuff) contains literature, PDF documents, links to several topics related to software development, software engineering, python, artificial intelligence, machine learning etc.
+
+---
 #### Current topics and upcoming stuff:
 - [ ] [Ethical Hacking with Python](https://github.com/FOehlschlaeger/udemy-ethical-hacking-python)
 - [ ] [Bash Scripting](https://github.com/FOehlschlaeger/Learn-Bash-Scripting)
@@ -32,8 +35,5 @@ Here are some ideas to get you started:
 - [ ] Javascript / CSS / HTML
 - [ ] [Basics of Tableau](https://github.com/FOehlschlaeger/udemy-tableau-fundamentals-of-data-visualization)
 - [ ] Participation in [Kaggle Competitions](https://www.kaggle.com/)
-
----
-[_Literature-and-Stuff_](https://github.com/FOehlschlaeger/Literature-and-Stuff) contains literature, PDF documents, links to several topics related to software development, software engineering, python, artificial intelligence, machine learning etc.
 
 ---
