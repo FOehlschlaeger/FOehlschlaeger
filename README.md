@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - Besides, I pursue ideas around Game Development
 
 ---
-The project [Literature-and-Stuff](https://github.com/FOehlschlaeger/Literature-and-Stuff) contains literature, PDF documents, links to several topics related to software development, software engineering, python, artificial intelligence, machine learning etc.
+The project [Literature-and-Stuff](https://github.com/FOehlschlaeger/Literature-and-Stuff) contains literature, PDF documents, links to several topics covering Software Development, Python, Deep Learning, Machine Learning, DevOps, etc.
 
 ---
 #### Current topics and upcoming stuff:
