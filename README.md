@@ -36,5 +36,6 @@ The project [Literature-and-Stuff](https://github.com/FOehlschlaeger/Literature-
 - [Basics of Tableau Data Visualization](https://github.com/FOehlschlaeger/udemy-tableau-fundamentals-of-data-visualization)
 - Participation in [Kaggle Competitions](https://www.kaggle.com/)
   - [Titanic Competition](https://github.com/FOehlschlaeger/Kaggle_Titanic)
+- [Mind Performance and Self-Optimziation](https://github.com/FOehlschlaeger/Mind-and-Memory)
 
 ---
