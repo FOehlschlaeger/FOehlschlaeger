@@ -22,18 +22,19 @@ The project [Literature-and-Stuff](https://github.com/FOehlschlaeger/Literature-
 
 ---
 #### Current topics and upcoming stuff:
-- [ ] [Ethical Hacking with Python](https://github.com/FOehlschlaeger/udemy-ethical-hacking-python)
-- [ ] [Bash Scripting](https://github.com/FOehlschlaeger/Learn-Bash-Scripting)
-- [ ] [Kubernetes with local VM Cluster](https://github.com/FOehlschlaeger/Learning-Kubernetes)
-- [ ] CI/CD with GitHub Actions
-- [ ] Improving Python
-- [ ] [Learning Go / Golang with Tests](https://github.com/FOehlschlaeger/Learn-Go-with-Tests)
-- [ ] [Learning C#](https://github.com/FOehlschlaeger/Learning-C-Sharp)
-- [ ] Game Development using C# and Unity
-- [ ] Containerization and Docker
-- [ ] Deep Diving into several AI topics such as Machine Learning, Deep Learning, Neural Networks, Computer Vision, Natural Language Processing
-- [ ] [Javascript / CSS / HTML](https://github.com/FOehlschlaeger/Learning-Javascript-CSS-HTML)
-- [ ] [Basics of Tableau Data Visualization](https://github.com/FOehlschlaeger/udemy-tableau-fundamentals-of-data-visualization)
-- [ ] Participation in [Kaggle Competitions](https://www.kaggle.com/)
+- [Ethical Hacking with Python](https://github.com/FOehlschlaeger/udemy-ethical-hacking-python)
+- [Bash Scripting](https://github.com/FOehlschlaeger/Learn-Bash-Scripting)
+- [Kubernetes with local VM Cluster](https://github.com/FOehlschlaeger/Learning-Kubernetes)
+- CI/CD with GitHub Actions
+- Improving Python
+- [Learning Go / Golang with Tests](https://github.com/FOehlschlaeger/Learn-Go-with-Tests)
+- [Learning C#](https://github.com/FOehlschlaeger/Learning-C-Sharp)
+- Game Development using C# and Unity
+- Containerization and Docker
+- Deep Diving into several AI topics such as Machine Learning, Deep Learning, Neural Networks, Computer Vision, Natural Language Processing
+- [Learning Javascript / CSS / HTML](https://github.com/FOehlschlaeger/Learning-Javascript-CSS-HTML)
+- [Basics of Tableau Data Visualization](https://github.com/FOehlschlaeger/udemy-tableau-fundamentals-of-data-visualization)
+- Participation in [Kaggle Competitions](https://www.kaggle.com/)
+  - [Titanic Competition](https://github.com/FOehlschlaeger/Kaggle_Titanic)
 
 ---
