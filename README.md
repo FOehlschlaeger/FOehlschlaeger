@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 The project [Literature-and-Stuff](https://github.com/FOehlschlaeger/Literature-and-Stuff) contains literature, PDF documents, links to several topics covering Software Development, Python, Deep Learning, Machine Learning, DevOps, etc.
 
 ---
-#### Current topics and upcoming stuff:
+#### Current projects and upcoming stuff:
 - [Ethical Hacking with Python](https://github.com/FOehlschlaeger/udemy-ethical-hacking-python)
 - [Bash Scripting](https://github.com/FOehlschlaeger/Learn-Bash-Scripting)
 - [Kubernetes with local VM Cluster](https://github.com/FOehlschlaeger/Learning-Kubernetes)
