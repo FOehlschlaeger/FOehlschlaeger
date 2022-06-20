@@ -25,6 +25,7 @@ The project [Literature-and-Stuff](https://github.com/FOehlschlaeger/Literature-
 - [Ethical Hacking with Python](https://github.com/FOehlschlaeger/udemy-ethical-hacking-python)
 - [Bash Scripting](https://github.com/FOehlschlaeger/Learn-Bash-Scripting)
 - [Kubernetes with local VM Cluster](https://github.com/FOehlschlaeger/Learning-Kubernetes)
+- [Learning Apache Kafka](https://github.com/FOehlschlaeger/Learning-Kafka)
 - CI/CD with GitHub Actions
 - Improving Python
 - [Learning Go / Golang with Tests](https://github.com/FOehlschlaeger/Learn-Go-with-Tests)
