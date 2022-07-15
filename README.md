@@ -27,6 +27,7 @@ The project [Literature-and-Stuff](https://github.com/FOehlschlaeger/Literature-
 - [Kubernetes with local VM Cluster](https://github.com/FOehlschlaeger/Learning-Kubernetes)
 - [Learning Apache Kafka](https://github.com/FOehlschlaeger/Learning-Kafka)
 - [Learning Elasticsearch and ELK stack](https://github.com/FOehlschlaeger/Learning-Elastic)
+- [Learning Puppet](https://github.com/FOehlschlaeger/Learning-Puppet)
 - CI/CD with GitHub Actions
 - Improving Python
 - [Learning Go / Golang with Tests](https://github.com/FOehlschlaeger/Learn-Go-with-Tests)
