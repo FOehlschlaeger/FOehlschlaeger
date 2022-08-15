@@ -29,7 +29,7 @@ The project [Literature-and-Stuff](https://github.com/FOehlschlaeger/Literature-
 - [Learning Elasticsearch and ELK stack](https://github.com/FOehlschlaeger/Learning-Elastic)
 - [Learning Puppet](https://github.com/FOehlschlaeger/Learning-Puppet)
 - CI/CD with GitHub Actions
-- Improving Python
+- [Improving Python](https://github.com/FOehlschlaeger/Improving-Python)
 - [Learning Go / Golang with Tests](https://github.com/FOehlschlaeger/Learn-Go-with-Tests)
 - [Learning C#](https://github.com/FOehlschlaeger/Learning-C-Sharp)
 - Game Development using C# and Unity
