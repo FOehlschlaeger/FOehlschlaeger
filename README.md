@@ -22,7 +22,7 @@ The project [Literature-and-Stuff](https://github.com/FOehlschlaeger/Literature-
 
 ---
 #### Current projects and upcoming stuff:
-- [Ethical Hacking with Python](https://github.com/FOehlschlaeger/udemy-ethical-hacking-python)
+- [Ethical Hacking with Python (private)](https://github.com/FOehlschlaeger/udemy-ethical-hacking-python)
 - [Bash Scripting](https://github.com/FOehlschlaeger/Learn-Bash-Scripting)
 - [Kubernetes with local VM Cluster](https://github.com/FOehlschlaeger/Learning-Kubernetes)
 - [Learning Apache Kafka](https://github.com/FOehlschlaeger/Learning-Kafka)
@@ -40,5 +40,3 @@ The project [Literature-and-Stuff](https://github.com/FOehlschlaeger/Literature-
 - Participation in [Kaggle Competitions](https://www.kaggle.com/)
   - [Titanic Competition](https://github.com/FOehlschlaeger/Kaggle_Titanic)
 - [Mind Performance and Self-Optimziation](https://github.com/FOehlschlaeger/Mind-and-Memory)
-
----
