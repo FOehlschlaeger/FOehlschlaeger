@@ -14,8 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- I am interested in Software Development and AI-related topics such as Deep Learning, Machine Learning, Neural Networks
-- Besides, I pursue ideas around Game Development
+- I am interested in Software Development
+- I am fascinated by many AI-related topics such as Deep Learning, Machine Learning, Neural Networks
+- I am working on ideas around analog and digital Game Development
 
 ---
 The project [Literature-and-Stuff](https://github.com/FOehlschlaeger/Literature-and-Stuff) contains literature, PDF documents, links to several topics covering Software Development, Python, Deep Learning, Machine Learning, DevOps, etc.
