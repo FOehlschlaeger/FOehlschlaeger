@@ -1,4 +1,8 @@
-### Hi there, my name is Friso 👋
+### Hello there, my name is Friso 👋
+
+![alt text](./giphy-hello-there.gif)
+
+Source: [giphy.com](https://giphy.com/gifs/starwars-star-wars-episode-3-xTiIzJSKB4l7xTouE8)
 
 <!--
 **FOehlschlaeger/FOehlschlaeger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,15 +18,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- I am interested in Software Development
-- I am fascinated by many AI-related topics such as Deep Learning, Machine Learning, Neural Networks
-- I am working on ideas around analog and digital Game Development
+I am ...
+- interested in **Software Development**
+- fascinated by **Artificial Intelligence**, i.e. Deep Learning, Machine Learning, Neural Networks
+- developing ideas around analog and digital **Game Development**
 
 ---
 The project [Literature-and-Stuff](https://github.com/FOehlschlaeger/Literature-and-Stuff) contains literature, PDF documents, links to several topics covering Software Development, Python, Deep Learning, Machine Learning, DevOps, etc.
 
 ---
-#### Current projects and upcoming stuff:
+#### Current projects and upcoming topics:
 - [Ethical Hacking with Python (private)](https://github.com/FOehlschlaeger/udemy-ethical-hacking-python)
 - [Bash Scripting](https://github.com/FOehlschlaeger/Learn-Bash-Scripting)
 - [Kubernetes with local VM Cluster](https://github.com/FOehlschlaeger/Learning-Kubernetes)
