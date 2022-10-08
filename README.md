@@ -2,7 +2,7 @@
 
 ![alt text](./giphy-hello-there.gif)
 
-Source: [giphy.com](https://giphy.com/gifs/starwars-star-wars-episode-3-xTiIzJSKB4l7xTouE8)
+_Source: [giphy.com](https://giphy.com/gifs/starwars-star-wars-episode-3-xTiIzJSKB4l7xTouE8)_
 
 <!--
 **FOehlschlaeger/FOehlschlaeger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
