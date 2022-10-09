@@ -28,7 +28,7 @@ The project [Literature-and-Stuff](https://github.com/FOehlschlaeger/Literature-
 
 ---
 #### OpenSource Contributions
-- [Deepl Python](https://github.com/FOehlschlaeger/deepl-python)
+- [Deepl Python](https://github.com/DeepLcom/deepl-python)
 
 ---
 #### Current projects and upcoming topics:
