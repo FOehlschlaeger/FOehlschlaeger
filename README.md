@@ -1,7 +1,6 @@
 ### Hello there, my name is Friso 👋
 
-![alt text](./giphy-hello-there.gif)
-
+![alt text](./giphy-hello-there.gif)\
 _Source: [giphy.com](https://giphy.com/gifs/starwars-star-wars-episode-3-xTiIzJSKB4l7xTouE8)_
 
 <!--
@@ -18,6 +17,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 I am ...
 - interested in **Software Development**
 - fascinated by **Artificial Intelligence**, i.e. Deep Learning, Machine Learning, Neural Networks
