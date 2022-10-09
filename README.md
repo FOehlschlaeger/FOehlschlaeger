@@ -27,6 +27,10 @@ I am ...
 The project [Literature-and-Stuff](https://github.com/FOehlschlaeger/Literature-and-Stuff) contains literature, PDF documents, links to several topics covering Software Development, Python, Deep Learning, Machine Learning, DevOps, etc.
 
 ---
+#### OpenSource Contributions
+- [Deepl Python](https://github.com/FOehlschlaeger/deepl-python)
+
+---
 #### Current projects and upcoming topics:
 - [Ethical Hacking with Python (private)](https://github.com/FOehlschlaeger/udemy-ethical-hacking-python)
 - [Bash Scripting](https://github.com/FOehlschlaeger/Learn-Bash-Scripting)
