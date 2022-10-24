@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 I am ...
 - interested in **Software Development**
 - fascinated by **Artificial Intelligence**, i.e. Deep Learning, Machine Learning, Neural Networks
-- as well as developing and working on ideas around analog and digital **Game Development**
+- developing and working on ideas around analog and digital **Game Development**
 
 ---
 The project [Literature-and-Stuff](https://github.com/FOehlschlaeger/Literature-and-Stuff) contains literature, PDF documents, links to several topics covering Software Development, Python, Deep Learning, Machine Learning, DevOps, etc.
