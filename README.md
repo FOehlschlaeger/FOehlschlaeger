@@ -31,7 +31,7 @@ The project [Literature-and-Stuff](https://github.com/FOehlschlaeger/Literature-
 - [Deepl Python](https://github.com/DeepLcom/deepl-python)
 
 ---
-### Finished, current and upcoming topics an projects:
+### Finished, current and upcoming topics or projects:
 Programming Languages
 - [Learning Javascript / CSS / HTML](https://github.com/FOehlschlaeger/Learning-Javascript-CSS-HTML)
 - [Improving Python](https://github.com/FOehlschlaeger/Improving-Python)
