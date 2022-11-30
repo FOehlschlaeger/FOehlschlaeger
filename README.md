@@ -27,25 +27,38 @@ I am ...
 The project [Literature-and-Stuff](https://github.com/FOehlschlaeger/Literature-and-Stuff) contains literature, PDF documents, links to several topics covering Software Development, Python, Deep Learning, Machine Learning, DevOps, etc.
 
 ---
-#### OpenSource Contributions
+### OpenSource Contributions
 - [Deepl Python](https://github.com/DeepLcom/deepl-python)
 
 ---
-#### Current projects and upcoming topics:
-- [Ethical Hacking with Python (private)](https://github.com/FOehlschlaeger/udemy-ethical-hacking-python)
-- [Bash Scripting](https://github.com/FOehlschlaeger/Learn-Bash-Scripting)
-- [Kubernetes with local VM Cluster](https://github.com/FOehlschlaeger/Learning-Kubernetes)
-- [Learning Apache Kafka](https://github.com/FOehlschlaeger/Learning-Kafka)
-- [Learning Elasticsearch and ELK stack](https://github.com/FOehlschlaeger/Learning-Elastic)
-- CI/CD with GitHub Actions
+### Finished, current and upcoming topics an projects:
+Programming Languages
+- [Learning Javascript / CSS / HTML](https://github.com/FOehlschlaeger/Learning-Javascript-CSS-HTML)
 - [Improving Python](https://github.com/FOehlschlaeger/Improving-Python)
 - [Learning Go / Golang with Tests](https://github.com/FOehlschlaeger/Learn-Go-with-Tests)
 - [Learning C#](https://github.com/FOehlschlaeger/Learning-C-Sharp)
+
+
+Games
 - Game Development using C# and Unity
-- Containerization with Docker and Podman
+
+
+Artificial Intelligence
 - Deep Diving into several AI topics such as Machine Learning, Deep Learning, Neural Networks, Computer Vision, Natural Language Processing
-- [Learning Javascript / CSS / HTML](https://github.com/FOehlschlaeger/Learning-Javascript-CSS-HTML)
+
+
+General Software Development and Tools and Frameworks
+- [Kubernetes with local VM Cluster](https://github.com/FOehlschlaeger/Learning-Kubernetes)
+- [Bash Scripting](https://github.com/FOehlschlaeger/Learn-Bash-Scripting)
 - [Basics of Tableau Data Visualization](https://github.com/FOehlschlaeger/udemy-tableau-fundamentals-of-data-visualization)
+- Containerization with Docker and Podman
+- [Learning Apache Kafka](https://github.com/FOehlschlaeger/Learning-Kafka)
+- CI/CD with GitHub Actions
+- [Learning Elasticsearch and ELK stack](https://github.com/FOehlschlaeger/Learning-Elastic)
+
+
+Other Projects
+- [Mind Performance and Self-Optimziation](https://github.com/FOehlschlaeger/Mind-and-Memory)
+- [Ethical Hacking with Python (private)](https://github.com/FOehlschlaeger/udemy-ethical-hacking-python)
 - Participation in [Kaggle Competitions](https://www.kaggle.com/)
   - [Titanic Competition](https://github.com/FOehlschlaeger/Kaggle_Titanic)
-- [Mind Performance and Self-Optimziation](https://github.com/FOehlschlaeger/Mind-and-Memory)
