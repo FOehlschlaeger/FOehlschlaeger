@@ -26,9 +26,11 @@ I am ...
 ---
 The project [Literature-and-Stuff](https://github.com/FOehlschlaeger/Literature-and-Stuff) contains literature, PDF documents, links to several topics covering Software Development, Python, Deep Learning, Machine Learning, DevOps, etc.
 
+<!--
 ---
 ### OpenSource Contributions
 - [Deepl Python](https://github.com/DeepLcom/deepl-python)
+-->
 
 ---
 ### Finished, current and upcoming topics or projects:
@@ -47,7 +49,7 @@ Artificial Intelligence
 - Deep Diving into several AI topics such as Machine Learning, Deep Learning, Neural Networks, Computer Vision, Natural Language Processing
 
 
-General Software Development and Tools and Frameworks
+General Software Development, Tools and Frameworks
 - [Kubernetes with local VM Cluster](https://github.com/FOehlschlaeger/Learning-Kubernetes)
 - [Bash Scripting](https://github.com/FOehlschlaeger/Learn-Bash-Scripting)
 - [Basics of Tableau Data Visualization](https://github.com/FOehlschlaeger/udemy-tableau-fundamentals-of-data-visualization)
@@ -60,5 +62,5 @@ General Software Development and Tools and Frameworks
 Other Projects
 - [Mind Performance and Self-Optimziation](https://github.com/FOehlschlaeger/Mind-and-Memory)
 - [Ethical Hacking with Python (private)](https://github.com/FOehlschlaeger/udemy-ethical-hacking-python)
-- Participation in [Kaggle Competitions](https://www.kaggle.com/)
+- [Kaggle Competitions](https://www.kaggle.com/)
   - [Titanic Competition](https://github.com/FOehlschlaeger/Kaggle_Titanic)
