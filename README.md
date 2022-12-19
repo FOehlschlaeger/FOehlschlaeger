@@ -61,6 +61,7 @@ General Software Development, Tools and Frameworks
 
 Other Projects
 - [Mind Performance and Self-Optimziation](https://github.com/FOehlschlaeger/Mind-and-Memory)
-- [Ethical Hacking with Python (private)](https://github.com/FOehlschlaeger/udemy-ethical-hacking-python)
+- Ethical Hacking
+  - [Ethical Hacking with Python (private)](https://github.com/FOehlschlaeger/udemy-ethical-hacking-python)
 - [Kaggle Competitions](https://www.kaggle.com/)
   - [Titanic Competition](https://github.com/FOehlschlaeger/Kaggle_Titanic)
