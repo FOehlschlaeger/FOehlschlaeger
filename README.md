@@ -23,9 +23,6 @@ I am ...
 - fascinated by **Artificial Intelligence**, i.e. Deep Learning, Machine Learning, Neural Networks
 - developing and working on ideas around analog and digital **Game Development**
 
----
-The project [Literature-and-Stuff](https://github.com/FOehlschlaeger/Literature-and-Stuff) contains literature, PDF documents, links to several topics covering Software Development, Python, Deep Learning, Machine Learning, DevOps, etc.
-
 <!--
 ---
 ### OpenSource Contributions
