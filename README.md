@@ -38,15 +38,19 @@ Programming Languages
 - [Learning C#](https://github.com/FOehlschlaeger/Learning-C-Sharp)
 
 
-Games
-- Game Development using C# and Unity
+Game Development
+- Games based on C# and Unity
+- Games based on Flutter
 
 
 Artificial Intelligence
-- Deep Diving into several AI topics such as Machine Learning, Deep Learning, Neural Networks, Computer Vision, Natural Language Processing
+- Machine Learning
+- Deep Learning and Neural Networks
+- Computer Vision
+- Natural Language Processing
 
 
-General Software Development, Tools and Frameworks
+Software Development, Tools and Frameworks
 - [Kubernetes with local VM Cluster](https://github.com/FOehlschlaeger/Learning-Kubernetes)
 - [Bash Scripting](https://github.com/FOehlschlaeger/Learn-Bash-Scripting)
 - [Basics of Tableau Data Visualization](https://github.com/FOehlschlaeger/udemy-tableau-fundamentals-of-data-visualization)
