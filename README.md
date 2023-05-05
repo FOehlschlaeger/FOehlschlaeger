@@ -48,6 +48,7 @@ Artificial Intelligence
 - Deep Learning and Neural Networks
 - Computer Vision
 - Natural Language Processing
+- Artificial General Intelligence, ChatGPT and Prompt Engineering
 
 
 Software Development, Tools and Frameworks
