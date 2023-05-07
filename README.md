@@ -49,6 +49,7 @@ Artificial Intelligence
 - Computer Vision
 - Natural Language Processing
 - Artificial General Intelligence, ChatGPT and Prompt Engineering
+  - [DeepLearnig.AI: ChatGPT Prompt Engineering for Developers (private)](https://github.com/FOehlschlaeger/deeplearning.ai-courses/tree/main/ChatGPT-Prompt-Engineering-for-Developers)
 
 
 Software Development, Tools and Frameworks
@@ -57,7 +58,7 @@ Software Development, Tools and Frameworks
 - [Basics of Tableau Data Visualization](https://github.com/FOehlschlaeger/udemy-tableau-fundamentals-of-data-visualization)
 - Containerization with Docker and Podman
 - [Learning Apache Kafka](https://github.com/FOehlschlaeger/Learning-Kafka)
-- CI/CD with GitHub Actions
+- [CI/CD with GitHub Actions](https://github.com/FOehlschlaeger/CI-CD-Github-Actions)
 - [Learning Elasticsearch and ELK stack](https://github.com/FOehlschlaeger/Learning-Elastic)
 
 
