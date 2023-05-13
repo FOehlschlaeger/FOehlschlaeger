@@ -49,7 +49,7 @@ Artificial Intelligence
 - Computer Vision
 - Natural Language Processing
 - Artificial General Intelligence, ChatGPT and Prompt Engineering
-  - [DeepLearnig.AI: ChatGPT Prompt Engineering for Developers (private)](https://github.com/FOehlschlaeger/deeplearning.ai-courses/tree/main/ChatGPT-Prompt-Engineering-for-Developers)
+  - [DeepLearning.AI: ChatGPT Prompt Engineering for Developers (private)](https://github.com/FOehlschlaeger/deeplearning.ai-courses/tree/main/ChatGPT-Prompt-Engineering-for-Developers)
 
 
 Software Development, Tools and Frameworks
