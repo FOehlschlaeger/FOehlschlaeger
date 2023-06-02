@@ -40,7 +40,7 @@ Programming Languages
 
 Game Development
 - Games based on C# and Unity
-- Games based on Flutter
+- Games based on Flutter and Dart
 
 
 Artificial Intelligence
