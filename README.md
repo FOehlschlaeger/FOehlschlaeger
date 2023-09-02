@@ -1,4 +1,6 @@
+<!--
 ### Hello there, my name is Friso 👋
+-->
 
 ![alt text](./giphy-hello-there.gif)\
 _Source: [giphy.com](https://giphy.com/gifs/starwars-star-wars-episode-3-xTiIzJSKB4l7xTouE8)_
@@ -18,9 +20,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am ...
+### My name is Friso and I am ...
 - interested in **Software Development**
-- fascinated by **Artificial Intelligence**, i.e. Deep Learning, Machine Learning, Neural Networks
+- fascinated by **Future Technologies** and **Artificial Intelligence**, i.e. Deep Learning, Machine Learning, Neural Networks
 - developing and working on ideas around analog and digital **Game Development**
 
 <!--
@@ -33,15 +35,23 @@ I am ...
 ### Finished, active and upcoming topics or projects:
 Programming Languages
 - [Learning Javascript / CSS / HTML](https://github.com/FOehlschlaeger/Learning-Javascript-CSS-HTML)
+<!--
 - [Improving Python](https://github.com/FOehlschlaeger/Improving-Python)
 - [Learning Go / Golang with Tests](https://github.com/FOehlschlaeger/Learn-Go-with-Tests)
 - [Learning C#](https://github.com/FOehlschlaeger/Learning-C-Sharp)
+- [Learning Rust]()
 
+Project in different programming languages
+- [SoundfileConverter-Python]()
+- [SoundfileConverter-Go]()
+- [SoundfileConverter-Rust]()
+-->
 
+<!--
 Game Development
 - Games based on C# and Unity
 - Games based on Flutter and Dart
-
+-->
 
 Artificial Intelligence
 - Machine Learning
@@ -51,21 +61,23 @@ Artificial Intelligence
 - Artificial General Intelligence, ChatGPT and Prompt Engineering
   - [DeepLearning.AI: ChatGPT Prompt Engineering for Developers (private)](https://github.com/FOehlschlaeger/deeplearning.ai-courses/tree/main/ChatGPT-Prompt-Engineering-for-Developers)
 
-
 Software Development, Tools and Frameworks
 - [Virtualization](https://github.com/FOehlschlaeger/Virtualization)
 - [Kubernetes with local VM Cluster](https://github.com/FOehlschlaeger/Learning-Kubernetes)
 - [Bash Scripting](https://github.com/FOehlschlaeger/Learn-Bash-Scripting)
 - [Basics of Tableau Data Visualization](https://github.com/FOehlschlaeger/udemy-tableau-fundamentals-of-data-visualization)
+<!--
 - Containerization with Docker and Podman
 - [Learning Apache Kafka](https://github.com/FOehlschlaeger/Learning-Kafka)
 - [CI/CD with GitHub Actions](https://github.com/FOehlschlaeger/CI-CD-Github-Actions)
 - [Learning Elasticsearch and ELK stack](https://github.com/FOehlschlaeger/Learning-Elastic)
-
+-->
 
 Other Projects
-- [Mind Performance and Self-Optimziation](https://github.com/FOehlschlaeger/Mind-and-Memory)
 - Ethical Hacking
   - [Ethical Hacking with Python (private)](https://github.com/FOehlschlaeger/udemy-ethical-hacking-python)
 - [Kaggle Competitions](https://www.kaggle.com/)
   - [Titanic Competition](https://github.com/FOehlschlaeger/Kaggle_Titanic)
+<!--
+- [Mind Performance and Self-Optimziation](https://github.com/FOehlschlaeger/Mind-and-Memory)
+-->
