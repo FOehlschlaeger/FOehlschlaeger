@@ -1,83 +1,62 @@
-<!--
-### Hello there, my name is Friso 👋
--->
-
 ![alt text](./giphy-hello-there.gif)\
 _Source: [giphy.com](https://giphy.com/gifs/starwars-star-wars-episode-3-xTiIzJSKB4l7xTouE8)_
 
 <!--
 **FOehlschlaeger/FOehlschlaeger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
 
-### My name is Friso and I am ...
-- interested in **Software Development**
-- fascinated by **Future Technologies** and **Artificial Intelligence**, i.e. Deep Learning, Machine Learning, Neural Networks
-- developing and working on ideas around analog and digital **Game Development**
+### I am ...
+- interested in all kinds of **Future Technologies** and **Artificial Intelligence**
+- working on **Game Development** (analog and digital)
 
 <!--
 ---
 ### OpenSource Contributions
 - [Deepl Python](https://github.com/DeepLcom/deepl-python)
+- ...
 -->
 
 ---
 ### Finished, active and upcoming topics or projects:
-Programming Languages
-- [Learning Javascript / CSS / HTML](https://github.com/FOehlschlaeger/Learning-Javascript-CSS-HTML)
-<!--
-- [Improving Python](https://github.com/FOehlschlaeger/Improving-Python)
-- [Learning Go / Golang with Tests](https://github.com/FOehlschlaeger/Learn-Go-with-Tests)
-- [Learning C#](https://github.com/FOehlschlaeger/Learning-C-Sharp)
-- [Learning Rust]()
-
-Project in different programming languages
-- [SoundfileConverter-Python]()
-- [SoundfileConverter-Go]()
-- [SoundfileConverter-Rust]()
--->
-
-<!--
 Game Development
-- Games based on C# and Unity
-- Games based on Flutter and Dart
--->
+- [ ] *in Progress:* Mobile Game PILA, build with Flutter
+- [ ] Game Development with C# and Unity (Udemy Course)
 
-Artificial Intelligence
-- Machine Learning
-- Deep Learning and Neural Networks
-- Computer Vision
-- Natural Language Processing
-- Artificial General Intelligence, ChatGPT and Prompt Engineering
-  - [DeepLearning.AI: ChatGPT Prompt Engineering for Developers (private)](https://github.com/FOehlschlaeger/deeplearning.ai-courses/tree/main/ChatGPT-Prompt-Engineering-for-Developers)
+Artificial Intelligence and Data Science
+- [x] [Kaggle Competition: Titanic Competition](https://github.com/FOehlschlaeger/Kaggle_Titanic)
+- [x] [DeepLearning.AI: ChatGPT Prompt Engineering for Developers (private)](https://github.com/FOehlschlaeger/deeplearning.ai-courses/tree/main/ChatGPT-Prompt-Engineering-for-Developers)
+- [x] [Basics of Tableau Data Visualization](https://github.com/FOehlschlaeger/udemy-tableau-fundamentals-of-data-visualization)
+- [ ] Machine Learning (Udemy Course)
+- [ ] Deep Learning and Neural Networks (Udemy Course)
+- [ ] Computer Vision (Udemy Course)
+- [ ] Natural Language Processing (Udemy Course)
 
-Software Development, Tools and Frameworks
-- [Virtualization](https://github.com/FOehlschlaeger/Virtualization)
-- [Kubernetes with local VM Cluster](https://github.com/FOehlschlaeger/Learning-Kubernetes)
-- [Bash Scripting](https://github.com/FOehlschlaeger/Learn-Bash-Scripting)
-- [Basics of Tableau Data Visualization](https://github.com/FOehlschlaeger/udemy-tableau-fundamentals-of-data-visualization)
+Programming Languages
+- [ ] [Learning Javascript / CSS / HTML](https://github.com/FOehlschlaeger/Learning-Javascript-CSS-HTML)
+- [ ] [Improving Python](https://github.com/FOehlschlaeger/Improving-Python)
+- [ ] [Learn Go with Tests](https://github.com/FOehlschlaeger/Learn-Go-with-Tests)
+- [ ] [Tour of Go](https://go.dev/tour/welcome/1)
+- [ ] (maybe) [Learning C#](https://github.com/FOehlschlaeger/Learning-C-Sharp)
+- [ ] (maybe) [Learning Rust](https://doc.rust-lang.org/book/)
+
+Same Project. Different Languages. *Containerized soundfile converter with REST-API, S3 object storage and postgres database*
+- [ ] [in Python]()
+- [ ] [in Go]()
+- [ ] (maybe) [in C#]()
+- [ ] (maybe) [in Rust]()
+
+Infrastructure and Cloud
+- [x] [Virtualization](https://github.com/FOehlschlaeger/Virtualization)
+- [x] [Learning Kubernetes (CKA and CKAD certification)](https://github.com/FOehlschlaeger/Learning-Kubernetes)
+- [ ] Infrastructure as Code (IaC) with Vagrant and/or Terraform
+
+Ethical Hacking
+- [x] [Ethical Hacking with Python Udemy Course (private)](https://github.com/FOehlschlaeger/udemy-ethical-hacking-python)
+- [ ] [Hack the Box](https://www.hackthebox.com/)
+
 <!--
-- Containerization with Docker and Podman
-- [Learning Apache Kafka](https://github.com/FOehlschlaeger/Learning-Kafka)
-- [CI/CD with GitHub Actions](https://github.com/FOehlschlaeger/CI-CD-Github-Actions)
-- [Learning Elasticsearch and ELK stack](https://github.com/FOehlschlaeger/Learning-Elastic)
--->
-
-Other Projects
-- Ethical Hacking
-  - [Ethical Hacking with Python (private)](https://github.com/FOehlschlaeger/udemy-ethical-hacking-python)
-- [Kaggle Competitions](https://www.kaggle.com/)
-  - [Titanic Competition](https://github.com/FOehlschlaeger/Kaggle_Titanic)
-<!--
-- [Mind Performance and Self-Optimziation](https://github.com/FOehlschlaeger/Mind-and-Memory)
+General Software Development, Tools and Frameworks
+- [ ] [Bash Scripting](https://github.com/FOehlschlaeger/Learn-Bash-Scripting)
+- [ ] [Clean Code (Udemy Course)]()
+- [ ] [Learning Elasticsearch and ELK stack](https://github.com/FOehlschlaeger/Learning-Elastic)
 -->
