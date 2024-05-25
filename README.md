@@ -19,7 +19,7 @@ _Source: [giphy.com](https://giphy.com/gifs/starwars-star-wars-episode-3-xTiIzJS
 ---
 ### Finished, active and upcoming topics or projects:
 Game Development
-- [ ] *in Progress:* Mobile Game PILA, build with Flutter
+- [ ] *in Progress:* Mobile Game PILA, build with Flutter and Dart
 - [ ] Game Development with C# and Unity (Udemy Course)
 
 Artificial Intelligence and Data Science
@@ -34,8 +34,7 @@ Artificial Intelligence and Data Science
 Programming Languages
 - [ ] [Learning Javascript / CSS / HTML](https://github.com/FOehlschlaeger/Learning-Javascript-CSS-HTML)
 - [ ] [Improving Python](https://github.com/FOehlschlaeger/Improving-Python)
-- [ ] [Learn Go with Tests](https://github.com/FOehlschlaeger/Learn-Go-with-Tests)
-- [ ] [Tour of Go](https://go.dev/tour/welcome/1)
+- [ ] Learning Go with Tutorials [Learn Go with Tests](https://github.com/FOehlschlaeger/Learn-Go-with-Tests) and a [Tour of Go](https://go.dev/tour/welcome/1)
 - [ ] (maybe) [Learning C#](https://github.com/FOehlschlaeger/Learning-C-Sharp)
 - [ ] (maybe) [Learning Rust](https://doc.rust-lang.org/book/)
 
