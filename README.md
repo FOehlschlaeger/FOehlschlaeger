@@ -38,11 +38,13 @@ Programming Languages
 - [ ] (maybe) [Learning C#](https://github.com/FOehlschlaeger/Learning-C-Sharp)
 - [ ] (maybe) [Learning Rust](https://doc.rust-lang.org/book/)
 
+<!--
 Same Project. Different Languages. *Containerized soundfile converter with REST-API, S3 object storage and postgres database*
 - [ ] [in Python]()
 - [ ] [in Go]()
 - [ ] (maybe) [in C#]()
 - [ ] (maybe) [in Rust]()
+-->
 
 Infrastructure and Cloud
 - [x] [Virtualization](https://github.com/FOehlschlaeger/Virtualization)
