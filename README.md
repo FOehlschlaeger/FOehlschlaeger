@@ -8,8 +8,9 @@ _Source: [giphy.com](https://giphy.com/gifs/starwars-star-wars-episode-3-xTiIzJS
 ---
 ### Finished, active and upcoming topics or projects:
 Game Development
-- [x] Mobile Game [PILA](https://github.com/FOehlschlaeger/pila), build with Flutter and Dart
-- [ ] (*in progress*) Game "Fates", build with Unity and C#
+- [x] Mobile Game [PILA](https://github.com/FOehlschlaeger/pila), built with Flutter and Dart
+- [ ] (*in progress*) Mobile Game "Timeframes", built with Flutter and Dart
+- [ ] (*upcoming*) Game "Fates", built with Unity and C#
 
 Programming Languages
 - [ ] [Javascript / CSS / HTML](https://github.com/FOehlschlaeger/Learning-Javascript-CSS-HTML)
