@@ -1,12 +1,3 @@
-![alt text](./giphy-hello-there.gif)\
-_Source: [giphy.com](https://giphy.com/gifs/starwars-star-wars-episode-3-xTiIzJSKB4l7xTouE8)_
-
-<!--
-**FOehlschlaeger/FOehlschlaeger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-
----
-### Finished, active and upcoming topics or projects:
 Game Development
 - [x] Mobile Game [PILA](https://github.com/FOehlschlaeger/pila), built with Flutter and Dart
 - [ ] (*in progress*) Mobile Game "Timeframes", built with Flutter and Dart
@@ -26,5 +17,5 @@ Infrastructure and Cloud
 - [x] [Virtualization](https://github.com/FOehlschlaeger/Virtualization)
 - [x] [Kubernetes (CKA and CKAD certification)](https://github.com/FOehlschlaeger/Learning-Kubernetes)
 
-Ethical Hacking
+Cyber Security and Ethical Hacking
 - [x] [Ethical Hacking with Python Udemy Course (private)](https://github.com/FOehlschlaeger/udemy-ethical-hacking-python)
