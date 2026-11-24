@@ -8,10 +8,6 @@ Programming Languages
 - [ ] [Learn Go with Tests](https://github.com/FOehlschlaeger/Learn-Go-with-Tests) and [Tour of Go](https://go.dev/tour/welcome/1)
 - [ ] [Learning Rust](https://doc.rust-lang.org/book/)
 
-Artificial Intelligence and Data Science
-- [x] [Kaggle Competition: Titanic Competition](https://github.com/FOehlschlaeger/Kaggle_Titanic)
-- [x] [DeepLearning.AI: ChatGPT Prompt Engineering for Developers (private)](https://github.com/FOehlschlaeger/deeplearning.ai-courses/tree/main/ChatGPT-Prompt-Engineering-for-Developers)
-- [x] [Basics of Tableau Data Visualization](https://github.com/FOehlschlaeger/udemy-tableau-fundamentals-of-data-visualization)
-
 Cyber Security and Ethical Hacking
 - [x] [Ethical Hacking with Python Udemy Course (private)](https://github.com/FOehlschlaeger/udemy-ethical-hacking-python)
+- [x] HackTheBox
