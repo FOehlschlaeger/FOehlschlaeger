@@ -13,9 +13,5 @@ Artificial Intelligence and Data Science
 - [x] [DeepLearning.AI: ChatGPT Prompt Engineering for Developers (private)](https://github.com/FOehlschlaeger/deeplearning.ai-courses/tree/main/ChatGPT-Prompt-Engineering-for-Developers)
 - [x] [Basics of Tableau Data Visualization](https://github.com/FOehlschlaeger/udemy-tableau-fundamentals-of-data-visualization)
 
-Infrastructure and Cloud
-- [x] [Virtualization](https://github.com/FOehlschlaeger/Virtualization)
-- [x] [Kubernetes (CKA and CKAD certification)](https://github.com/FOehlschlaeger/Learning-Kubernetes)
-
 Cyber Security and Ethical Hacking
 - [x] [Ethical Hacking with Python Udemy Course (private)](https://github.com/FOehlschlaeger/udemy-ethical-hacking-python)
